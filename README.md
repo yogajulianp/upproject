@@ -12,14 +12,15 @@
         <div class="section">
             <h1><span>My Up Aplication</span></h1>
             <ul>
-              My Name is Yoga Julian. First, i want learn about of
+              Bismillah..
+              Nama saya Yoga Julian, pertama-tama saya ingin aplikasikan tentang penggunaan
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
             </ul>
         </div>
-      Hope I can give something.
-      Thank You
+      <p>Hope I can give something. Aamiiin. </p>
+      <p>Thank You </p>
         <!-- My Skills section end -->
     </body>
 </html>
