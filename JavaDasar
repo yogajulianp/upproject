@@ -1,0 +1,14 @@
+package yoga.javafundamental.string;
+
+public class Main {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World");
+        String greeting = "Hello Better World ";
+        System.out.println(greeting);
+
+        char[] yogajulianChars = {'Y', 'o', 'g', 'a', ' ', 'J', 'u', 'l', 'i', 'a' , 'n'};
+        String yogajulianString = new String(yogajulianChars);
+        System.out.println(yogajulianString);
+    }
+}
